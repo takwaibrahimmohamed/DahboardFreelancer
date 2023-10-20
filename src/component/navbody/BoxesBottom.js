@@ -12,9 +12,9 @@ import Calender from './Calender';
 const BoxesBottom = () => {
   return (
     <div>
-     <Container>
-      <Row className='my-3'>
-        <Col  md={7} className='todolist mx-3 px-0'>
+   
+      <Row className='my-3 d-flex justify-content-evenly'>
+        <Col  md={7} className='todolist mx-1 px-0'>
             <TodoContent/>
             
         </Col>
@@ -23,8 +23,8 @@ const BoxesBottom = () => {
         </Col>
      
       </Row>
-      <Row className='my-3'>
-      <Col md={7} className='calender  mx-3'>
+      <Row className='my-3 d-flex justify-content-evenly'>
+      <Col md={7} className='calender  mx-1'>
         <Calender/>
       </Col>
         <Col md={4} className='activity px-0' style={{marginTop:"-70px"}}>
@@ -32,7 +32,7 @@ const BoxesBottom = () => {
         </Col>
         
       </Row>
-    </Container>
+   
     </div>
   )
 }
