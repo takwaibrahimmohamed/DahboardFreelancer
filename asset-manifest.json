@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DahboardFreelancer/static/css/main.d3750c3c.css",
+    "main.js": "/DahboardFreelancer/static/js/main.7dc8f0f7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DahboardFreelancer/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/DahboardFreelancer/index.html",
+    "main.d3750c3c.css.map": "/DahboardFreelancer/static/css/main.d3750c3c.css.map",
+    "main.7dc8f0f7.js.map": "/DahboardFreelancer/static/js/main.7dc8f0f7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DahboardFreelancer/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3750c3c.css",
+    "static/js/main.7dc8f0f7.js"
+  ]
+}
