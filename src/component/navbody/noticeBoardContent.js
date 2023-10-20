@@ -6,7 +6,7 @@ const NoticeBoardContent = () => {
     <div >
       <Nav className='d-flex justify-content-between todo' style={{paddingTop:"20px",paddingRight:"10px",paddingLeft:"10px"}}>
                 <p className='todotext todoListFirst'>To Do List</p>
-                <Image src="/images/Right.png" style={{objectFit:"contain"}}/>
+                <Image src="./images/Right.png" style={{objectFit:"contain"}}/>
     </Nav>
       <Nav className='d-flex justify-content-between todoList' style={{paddingTop:"10px",paddingBottom:"0px",paddingLeft:"10px"}}>
         <Nav className='todotext d-flex gap-2 align-items-start'>

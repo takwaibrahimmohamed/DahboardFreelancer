@@ -10,7 +10,7 @@ const TodoContent = () => {
     </Nav>
       <Nav className='d-flex justify-content-between  todo todoList' style={{paddingTop:"20px"}}>
         <Nav className='todotext d-flex gap-2 align-items-start'>
-            <Image src="/images/inactive.png" style={{objectFit:"contain"}}/>
+            <Image src="./images/inactive.png" style={{objectFit:"contain"}}/>
             <p className='createTask'>Create new task</p>
         </Nav>        
      </Nav>

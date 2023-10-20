@@ -9,7 +9,7 @@ const Activity = () => {
     
     <Nav className='d-flex justify-content-between todo' style={{paddingTop:"20px",paddingRight:"10px",paddingLeft:"10px"}}>
               <p className='todotext todoListFirst'>Recent Activity</p>
-              <Image src="/images/Right.png" style={{objectFit:"contain"}}/>
+              <Image src="./images/Right.png" style={{objectFit:"contain"}}/>
               
   </Nav>
     <Nav className='d-flex justify-content-between todoList' style={{paddingTop:"10px",paddingBottom:"0px",paddingLeft:"10px"}}>
